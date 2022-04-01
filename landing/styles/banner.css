@@ -1,0 +1,22 @@
+.banner{
+	height: 60vh;
+	background-image: url("../images/fond.jpg");
+	background-size: cover;
+	background-position: center;
+	color:  white;
+	display:  flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+.banner h1, .banner h2{
+	text-shadow: 1px 1px 1px black;
+}
+.banner-fixed{
+	height:20vh;
+	background-image: url("../images/modele.jpg");
+	margin: 48px 0;
+	background-size: cover;
+	background-attachment: fixed;
+}

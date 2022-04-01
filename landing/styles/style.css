@@ -1,0 +1,31 @@
+@import url('banner.css');
+@import url('button.css');
+@import url('cards.css');
+@import url('footer.css');
+
+html{
+	font-family: Helvetica;
+}
+
+body{
+	margin:  0;
+	background-color: #f2e3cc;
+}
+a{
+	text-decoration: none;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 50px ;
+}
+h3{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+
+.icon{
+	color: white;
+}
